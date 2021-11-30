@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Reading 01](class-01.md)
-2. Reading 02
+2. [Reading 02](class-02.md)
 3. Reading 03
 4. Reading 04
 5. Reading 05
