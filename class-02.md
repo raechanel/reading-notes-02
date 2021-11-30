@@ -5,7 +5,9 @@ HTML stands for HyperText Markup Language
 CSS is Cascading Style Sheets
 
 JS is JavaScript
+
 ***
+
 ## HTML
 
 Tags are also known as markup. There are two types of markup:
@@ -16,6 +18,7 @@ Tags are also known as markup. There are two types of markup:
   * example: `<abbr> <cite>`
 
 *** 
+
 ## CSS
 
 CSS allows you to create rules that control the way that each individual box and the contents of that box are presented.
@@ -51,4 +54,4 @@ A script will temporarily store bits of information it needs to do the job. It s
 
 ***
 
-[Home](class-02.md)
+[Home](README.md)
