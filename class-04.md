@@ -38,7 +38,7 @@ Linking to a specific part on the same page: `<a href="#top">` would link to the
 
 ***
 
-## Layout
+## CSS Layout
 
 CSS treats HTML as if it is in it's own box. The box will either be **block-level** or an **inline** box.
 
@@ -48,6 +48,13 @@ CSS treats HTML as if it is in it's own box. The box will either be **block-leve
   - Examples: `<img> <b> <i>`
 - If one block-level element sits inside another block-level element then the outer box is known as the **containing** or **parent** element.
   - Examples: `<div>`
+
+#### CSS Positions
+
+**Fixed**
+**Static**
+**Relative**
+**Absolute**
 
 ## JS Functions
 
