@@ -17,7 +17,7 @@ Tags are also known as markup. There are two types of markup:
 * **Semantic markup** provides extra information like emphasis placed in a sentence.
   * example: `<abbr> <cite>`
 
-*** 
+***
 
 ## CSS
 

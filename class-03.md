@@ -20,12 +20,6 @@ Each item in the lists (***list item***) is made with the element `<li>`
 
 ## Control Flow wtih JavaScript
 
-`If...Else` statement checks a condition. If it resolves to be true the first code block is executed. If the condition resolves to be false the second code box is run instead.
-
-* Example: `if (score >= 50) {congratulate(; )} "congraulate" is what should be executed if the value is true. else { encourage ();} "encourage" is the code to be executed if the value is false`
-
-
-
 | Data Type | Purpose                                                  |
 | --------- | ------------                                             |
 | `string`  | Text                                                     |
@@ -34,6 +28,43 @@ Each item in the lists (***list item***) is made with the element `<li>`
 | `null`     | Empty value                                             |
 | `undefined` | Variable has been declared but not yet assigned a value|
 
+### Arrays
+
+***Array*** is a collection of elements otherwise knowns as a list of elements.
+An array can have strings, numbers, booleans, other arrays, objects.
+
+`Example: letmixedArr = [1, 'hello', true, [2,3]]`
+
+Arrays have indexes
+
+`let students = ['Rae', 'Kae', 'Shay']`
+
+Rae is index 0 Kay is 1 Shay is 3
+
+To pull Kay: `console.log(students[1])`
+
+Arrays have a length. Very useful to know the length
+Example: `console.log(students.length)`
+
+Arrays are convient to add things to
+
+Example: `students[4] = Pat`  
+
+It adds Pat to the array
+
+`.push()` is a mthod that adds the element to the END of the array
+
+`If...Else` statement checks a condition. If it resolves to be true the first code block is executed. If the condition resolves to be false the second code box is run instead.
+
+* Example: `if (score >= 50) {congratulate(; )} "congraulate" is what should be executed if the value is true. else { encourage ();} "encourage" is the code to be executed if the value is false`
+
+### For Loop/While Loop
+
+For loop is great for doing something a certain number of times.
+
+Example: `for (let i = 0;) i < students.length; i++) {console.log(Welcome to Class ' + students[i] + '!')`
+
+}
 ***
 
 ## The CSS Box Model
@@ -51,4 +82,3 @@ Every box haas three properties that can be adjusted to control the appearance:
 ***
 
 [Home](README.md)
-
