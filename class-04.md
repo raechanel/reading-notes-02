@@ -49,12 +49,9 @@ CSS treats HTML as if it is in it's own box. The box will either be **block-leve
 - If one block-level element sits inside another block-level element then the outer box is known as the **containing** or **parent** element.
   - Examples: `<div>`
 
-#### CSS Positions
+### CSS Positions
 
-**Fixed**
-**Static**
-**Relative**
-**Absolute**
+There are 4 types: **Fixed**, **Static**, **Relative**, **Absolute**
 
 ## JS Functions
 
@@ -84,3 +81,7 @@ The *statements* that perform the task sit in a code block. (Inside the curly br
   - {document.write('Hello');}` is the code block inside the curly braces
 
 To call a function you code your function name: `sayHello();`
+
+***
+
+[Home](README.md)
