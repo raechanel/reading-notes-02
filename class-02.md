@@ -54,4 +54,11 @@ A script will temporarily store bits of information it needs to do the job. It s
 
 ***
 
-[Home](README.md)
+### All Readings
+
+* [Home](README.md)
+* [Intro to HTML and JavaScript](class-01.md)
+* [Basics of HTML, CSS & JS](class-02.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
+* [Images, Color, Text](class-05.md)
