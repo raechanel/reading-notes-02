@@ -1,11 +1,11 @@
 # Tables, Functions, Methods, and Objects
 
 ***
-# Table 
+# Table
 
 A `table` represents information in a grid format. Examples of tables include financial reports, tv schedules, and sports results.
 
-Grids allow us to understand complex data by refrenceing information on two axes.
+Grids allow us to understand complex data by refrencing information on two axes.
 
 Each block in the grid is referred to as a `table cell`. In HTML a table is written out row by row.
 
@@ -17,7 +17,7 @@ Table Structure
 
 `<td>` Each cell of a table is represented using a `<td>` element. (td stands for table data)
 
-`<th>` element is used just like the `<td>` element but it's purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
+`<th>` element is used just like the `<td>` element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
 
 *For long tables you can split the table into a `<thead>`, `<tbody>`, and `<tfoot>`*
 
@@ -33,7 +33,7 @@ Table Structure
 
 What is a constructor? It is a function that creates object `instances` and uses parameters to assign `unique` property value
 
-The `new` key word and the onject constructor create a blank object. You can then add properties and methods to the object.
+The `new` key word and the object constructor create a blank object. You can then add properties and methods to the object.
 
 Example:
 
@@ -43,7 +43,7 @@ Example:
 * name is the property
 * . is the member operator
 * = is the assignment operator
-* park is the propety name
+* park is the property name
 
 ***
 
