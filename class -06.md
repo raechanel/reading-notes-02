@@ -33,10 +33,9 @@ Example:
 | siblings          | boolean               |
 | intrest           | array                 |
 
-
 ***
 
-# DOM
+## DOM
 
 What is DOM? Dom is the Document Object Model. This specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a webpage while in a browser window.
 
@@ -50,4 +49,16 @@ Each part represent a different part of the page loaded in the browser window
 
 The DOM tree is a model of a web page
 
-DOM trees have four types of nodes: `document nodes`, `element nodes`, `attribute nodes`, and `text nodes`. 
+DOM trees have four types of nodes: `document nodes`, `element nodes`, `attribute nodes`, and `text nodes`.
+
+***
+
+### All Readings
+
+* [Home](README.md)
+* [Intro to HTML and JavaScript](class-01.md)
+* [Basics of HTML, CSS & JS](class-02.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
+* [Images, Color, Text](class-05.md)
+* [Object Literals and DOM](class-06.md)
