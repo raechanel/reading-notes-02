@@ -8,7 +8,7 @@
 4. [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 5. [Images, Color, Text](class-05.md)
 6. [Object Literals and DOM](class-06.md)
-7. Reading 07
+7. [Tables, Functions, Methods, and Objects](class-07.md)
 8. Reading 08
 9. Reading 09
 10. Reading 010
