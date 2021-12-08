@@ -2,15 +2,15 @@
 
 ***
 
-## Controling the position of elements
+## Controlling the position of elements
 
 CSS has the four *positioning schemes* to allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning.
 
 ***
 
-## Creating muli-column layout with floats
+## Creating multi-column layout with floats
 
-Many web pages use multiple columns in their design. Tjis is achived by using the `<div>` element to represent each column. The following CSS properties are used to position the columns next to each other.
+Many web pages use multiple columns in their design. This is achieved by using the `<div>` element to represent each column. The following CSS properties are used to position the columns next to each other.
 
 * `width` sets the width of the column
 *`float` positions the columns next to each other
@@ -30,16 +30,16 @@ Fixed width layout designs do not change size as the user increases or decreases
 
 ### **Advantages**
 
-* Pixel values are accurate at controlling size and positioing of elements
+* Pixel values are accurate at controlling size and positioning of elements
 * The designer has greater control over the appearance and position of items on the page than with liquid layouts
 * You can control the lengths of lunes of text regardless of the size of the user's window
 The size of the image will always remain the same relative to the rest of the page
 
 ### **Disadvantages**
 
-* You can end up with ig gaps around the edge of a page
+* You can end up with gaps around the edge of a page
 * If user has higher screen resolution than the designer's screen, the page can look smaller and text can be harder to read
-* If the user increases font sizes, text might not fit into the lloted space
+* If the user increases font sizes, text might not fit into the allotted space
 * The design works best on devices that have a site or resolution similar to that of desktop ot laptop computers.
 *The page will often take up more vertical space than liquid layout with the same content
 
@@ -60,7 +60,7 @@ Liquid layout designs stretch and contract as the user increases/decreases the s
 * The design can look very different than you intended if you do not have control of the width of the sections
 * If the user has a wide window lines of text can become long
 * If the user has a narrow window words can be squashed
-*If a fixed width item (like an image) is in a box that is too small (because the user made the window smaller) the image can overflow over the text
+* If a fixed width item (like an image) is in a box that is too small (because the user made the window smaller) the image can overflow over the text
 
 ***
 
