@@ -1,7 +1,8 @@
 # Tables, Functions, Methods, and Objects
 
 ***
-# Table
+
+## Table
 
 A `table` represents information in a grid format. Examples of tables include financial reports, tv schedules, and sports results.
 
@@ -57,3 +58,4 @@ Example:
 * [Images, Color, Text](class-05.md)
 * [Object Literals and DOM](class-06.md)
 * [Tables, Functions, Methods, and Objects](class-07.md)
+* [CSS Layout](class-08.md)

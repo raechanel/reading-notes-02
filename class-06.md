@@ -12,18 +12,17 @@ Example:
 
 `let person = {`
 
-`    name: 'alexis',`
+`name: 'alexis',`
 
-`    age: '28',`
+`age: '28',`
 
-`    birth month: 'september',`
+`birth month: 'september',`
 
-`    interests: 'traveling', ['swimming', 'reading', 'social media'],`
+`interests: 'traveling', ['swimming', 'reading', 'social media'],`
 
 `}`
 
-
-**The object is person**
+The object is "person"
 
 | Properties: `Key` | Properties: `Value`   |
 | ---------         | ------------          |
@@ -63,3 +62,4 @@ DOM trees have four types of nodes: `document nodes`, `element nodes`, `attribut
 * [Images, Color, Text](class-05.md)
 * [Object Literals and DOM](class-06.md)
 * [Tables, Functions, Methods, and Objects](class-07.md)
+* [CSS Layout](class-08.md)

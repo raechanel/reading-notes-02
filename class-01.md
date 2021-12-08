@@ -65,11 +65,11 @@ When you know what needs to appear on the site, you can start to organize the in
 
 The primary aim of visual design is to communicate and make sure the message shines through. With so much on a webpage the author needs to organize and prioritize the information to communicate their message and help users find what they're looking for.
 
-- **Visual Hierachy** is created to help users focus on the key messages that will draw users attention.
+* **Visual Hierachy** is created to help users focus on the key messages that will draw users attention.
 
-- *Grouping together* related content into blocks or chunks makes the page look simpler.
+* *Grouping together* related content into blocks or chunks makes the page look simpler.
 
-- **Similarity** is done by presenting certain types of information in a similiar visual style so users associate that style with the particular content.
+* **Similarity** is done by presenting certain types of information in a similiar visual style so users associate that style with the particular content.
 
 ***
 
@@ -83,3 +83,4 @@ The primary aim of visual design is to communicate and make sure the message shi
 * [Images, Color, Text](class-05.md)
 * [Object Literals and DOM](class-06.md)
 * [Tables, Functions, Methods, and Objects](class-07.md)
+* [CSS Layout](class-08.md)

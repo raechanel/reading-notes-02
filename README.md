@@ -9,7 +9,7 @@
 5. [Images, Color, Text](class-05.md)
 6. [Object Literals and DOM](class-06.md)
 7. [Tables, Functions, Methods, and Objects](class-07.md)
-8. Reading 08
+8. [CSS Layout](class-08.md)
 9. Reading 09
 10. Reading 010
 11. Reading 011

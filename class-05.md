@@ -92,17 +92,18 @@ There are two groups of properties that allow you to control the appearance of t
 
 The `font-family` property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies. It is possible to specifiy more than one typeface and create an order of prefrence (in case the user does not have your first choice of typeface installed.)This is referred to as a `font stack`.
 
-  - For example if you wanted `sans-serif` type, you could write the following: `font-family: Georgia, Times, serif;`
+- For example if you wanted `sans-serif` type, you could write the following: `font-family: Georgia, Times, serif;`
 
 ***
 
 ### All Readings
 
-* [Home](README.md)
-* [Intro to HTML and JavaScript](class-01.md)
-* [Basics of HTML, CSS & JS](class-02.md)
-* [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
-* [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
-* [Images, Color, Text](class-05.md)
-* [Object Literals and DOM](class-06.md)
-* [Tables, Functions, Methods, and Objects](class-07.md)
+- [Home](README.md)
+- [Intro to HTML and JavaScript](class-01.md)
+- [Basics of HTML, CSS & JS](class-02.md)
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
+- [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
+- [Images, Color, Text](class-05.md)
+- [Object Literals and DOM](class-06.md)
+- [Tables, Functions, Methods, and Objects](class-07.md)
+- [CSS Layout](class-08.md)
