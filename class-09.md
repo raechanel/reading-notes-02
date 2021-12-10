@@ -8,14 +8,14 @@ HTML refers to forms as different elements that allow you to collect information
 
 `FORM CONTROLS`
 
-There are several tpes of form conreols that you can use to collect information from visitors to your site:
+There are several types of form controls that you can use to collect information from visitors to your site:
 
 * Adding Text:
   * Text input (single line) used for a single line of text such as email addresses and names
   * Password Input is a single line text box but it masks the characters entered
   * Text Area is for longer areas of text, such as messages and comments
 * Making Choices:
-  * Radio buttons are for use whena user must select one of a number of options
+  * Radio buttons are for use when a user must select one of a number of options
   * Checkboxes used for when a user can select and unselect one or more options
   * Drop-down boxes when a user must pick one of a number of options from a list
 * Submitting Forms:
@@ -44,7 +44,7 @@ When an event occurs, or fires, it can be used to trigger a particular function.
 
 ***Code responds to users***
 
-The events can trigger the kinds of changes te DOM is cappable of. *This is how webpages react to users.*
+The events can trigger the kinds of changes the DOM is capable of. *This is how webpages react to users.*
 
 ### Different types of events
 
@@ -81,7 +81,7 @@ The events can trigger the kinds of changes te DOM is cappable of. *This is how 
 
 ### How Events Trigger JavaScript Code
 
-When the users interacts with the html on the web page, there are three steps involved in getting it to trigger some JavaScript code. These three steps together are known as `event handeling`.
+When the users interacts with the html on the web page, there are three steps involved in getting it to trigger some JavaScript code. These three steps together are known as `event handling`.
 
 1. Select the element node(s) you want the script to respond to [SELECT THE ELEMENT]
 2. Indicate which `event` on the selected node(s) will trigger the response [SPECIFY EVENT]
