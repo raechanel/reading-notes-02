@@ -1,4 +1,4 @@
-# JavaScriot Debugging
+# JavaScript Debugging
 
 To find the source of an error, it helps to know how scripts are processed. The order in which statements are executed can be complex: some tasks cannot complete until another statement or function has been run.
 
@@ -20,7 +20,7 @@ There are seven built-in types of error objects in JavaScript:
 | ---------         | ------------          |
 | Error  | Generic error - the other errors are all based upon this error|
 | SyntaxError | Syntax has not been followed              |
-| ReferencEError       | Tried to reference a variable that is not declared/within scope               |
+| ReferenceError       | Tried to reference a variable that is not declared/within scope               |
 | TypeError  | An unexpected data type that cannot be coerced            |
 | RangeError         | Numbers not in acceptable range     |
 | URIError        | encodeURI(), decodeURI(), and similar methods used incorrectly    |
