@@ -84,3 +84,5 @@ The primary aim of visual design is to communicate and make sure the message shi
 * [Object Literals and DOM](class-06.md)
 * [Tables, Functions, Methods, and Objects](class-07.md)
 * [CSS Layout](class-08.md)
+* [Forms and JS Events](class-09.md)
+* [Debugging](class-10.md)

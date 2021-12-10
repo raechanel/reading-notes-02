@@ -10,8 +10,8 @@
 6. [Object Literals and DOM](class-06.md)
 7. [Tables, Functions, Methods, and Objects](class-07.md)
 8. [CSS Layout](class-08.md)
-9. Reading 09
-10. Reading 010
+9. [Forms and JS Events](class-09.md)
+10. [Debugging](class-10.md)
 11. Reading 011
 12. Reading 012
 13. Reading 013
