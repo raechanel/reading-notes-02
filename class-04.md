@@ -97,5 +97,5 @@ To call a function you code your function name: `sayHello();`
 - [CSS Layout](class-08.md)
 - [Forms and JS Events](class-09.md)
 - [Debugging](class-10.md)
-- [Audio](class-11.md)
+- [Images](class-11.md)
 - [Chart.js](class-12.md)

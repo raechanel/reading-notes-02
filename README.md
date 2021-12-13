@@ -12,7 +12,7 @@
 8. [CSS Layout](class-08.md)
 9. [Forms and JS Events](class-09.md)
 10. [Debugging](class-10.md)
-11. [Audio](class-11.md)
+11. [Images](class-11.md)
 12. [Chart.js](class-12.md)
 13. Reading 013
 14. Reading 014
