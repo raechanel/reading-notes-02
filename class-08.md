@@ -79,3 +79,4 @@ Liquid layout designs stretch and contract as the user increases/decreases the s
 * [Debugging](class-10.md)
 * [Images](class-11.md)
 * [Chart.js](class-12.md)
+* [Local Storage](class-13.md)

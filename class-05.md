@@ -111,3 +111,4 @@ The `font-family` property allows you to specify the typeface that should be use
 - [Debugging](class-10.md)
 - [Images](class-11.md)
 - [Chart.js](class-12.md)
+- [Local Storage](class-13.md)

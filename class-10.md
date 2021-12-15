@@ -54,3 +54,4 @@ You should try to narrow down the problem area. In a long script this is especia
 * [Debugging](class-10.md)
 * [Images](class-11.md)
 * [Chart.js](class-12.md)
+* [Local Storage](class-13.md)

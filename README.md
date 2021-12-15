@@ -14,6 +14,6 @@
 10. [Debugging](class-10.md)
 11. [Images](class-11.md)
 12. [Chart.js](class-12.md)
-13. Reading 013
+13. [Local Storage](class-13.md)
 14. Reading 014
 15. Reading 015
