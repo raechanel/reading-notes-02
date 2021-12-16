@@ -63,3 +63,5 @@ The `background-repeat` property can have four values:
 * [Images](class-11.md)
 * [Chart.js](class-12.md)
 * [Local Storage](class-13.md)
+* [CSS Transforms, Transitions and Animations](class-14a.md)
+* [What google learned about teams?](class-14b.md)

@@ -15,5 +15,6 @@
 11. [Images](class-11.md)
 12. [Chart.js](class-12.md)
 13. [Local Storage](class-13.md)
-14. Reading 014
-15. Reading 015
+14. [CSS Transforms, Transitions and Animations](class-14a.md)
+15. [What google learned about teams?](class-14b.md)
+16. Reading 015
