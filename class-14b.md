@@ -41,4 +41,4 @@ Project Aristotle is a reminder that when companies try to optimize everything, 
 * [Chart.js](class-12.md)
 * [Local Storage](class-13.md)
 * [CSS Transforms, Transitions and Animations](class-14a.md)
-* 15. [What google learned about teams?](class-14b.md)
+* [What google learned about teams?](class-14b.md)
